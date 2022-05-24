@@ -1,4 +1,4 @@
-# Random-Graph-generator
+# Random-Graph-Generator
 A very simple script to generate graph
 
 Graph format:
