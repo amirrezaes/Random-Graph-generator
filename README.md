@@ -14,3 +14,9 @@ Graph format:
 Requirements:
 
     pip install networkx
+
+Usage:
+
+    python main.py <node count> <edge probability>
+    
+edge probability needs to be between 0 and 1
